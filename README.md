@@ -1,2 +1,2 @@
 # svt
-svt,aim to be a wangbaiwan!
+svt,aim to be a wbw!
