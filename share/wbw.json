@@ -1,4 +1,4 @@
-可以使用支付宝、微信、PayPal、外币信用卡，额外送10美元
+可以使用支付宝、微信、PayPal、外币信用卡，使用下面注册链接额外送10美元
 [充值10美元](https://www.vultr.com/?ref=7369067)
 
 
@@ -6,4 +6,11 @@
 [开退款工单](https://my.vultr.com/support/create_ticket/)
 
 
-就这点英文字母难不倒你的吧？
+[Script脚本]
+
+#!/bin/sh
+bash <(curl -sL https://git.io/v2-ui.sh)
+
+
+
+
